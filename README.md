@@ -44,6 +44,3 @@ streamlit run dashboard.py
 - **KPI:** Total de vendas no período filtrado.
 - **Gráficos:** Visualizações de vendas por produto e vendas ao longo do tempo.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias para o projeto através de pull requests.
